@@ -27,3 +27,5 @@ function barcodeGenerator(input) {
     } 
     console.log(res);
 }
+
+//for odd numbers;
