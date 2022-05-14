@@ -1,2 +1,1 @@
 # BarcodeGen
-JS Project;
