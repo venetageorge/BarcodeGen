@@ -1,2 +1,1 @@
 # BarcodeGen
-//for odd numbers;
