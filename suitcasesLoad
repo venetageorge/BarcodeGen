@@ -31,3 +31,4 @@ function suitcasesLoad(input) {
   }
   console.log(`Statistic: ${counter} suitcases loaded.`);
 }
+suitcasesLoad(["550", "100", "252", "72", "End"]);
