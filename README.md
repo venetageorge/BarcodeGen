@@ -1,6 +1,7 @@
+# Coding, coding, coding 
 ┊┊┊┊⋆ ✧　 　 · 　 ✧　✵
 ┊┊┊☆ *　　 * ⋆
-┊┊★ * # Coding, coding, coding
+┊┊★ *
 ┊┊* . *　✦
 ┊☆ ° ✧　 　 ·
-★*  
+★*
