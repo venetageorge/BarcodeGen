@@ -27,5 +27,6 @@ function barcodeGenerator(input) {
     } 
     console.log(res);
 }
-
-//for odd numbers;
+barcodeGenerator(["2345", "6789"]);
+barcodeGenerator(["3256", "6579"]);
+barcodeGenerator(["1365", "5877"]);
