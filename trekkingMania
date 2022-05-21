@@ -6,7 +6,7 @@ function trekkingMania(input) {
   let k2Group = 0;
   let everestGroup = 0;
   let total = 0;
-
+  
   for (let i = 1; i <= countOfGroups; i++) {
     let num = Number(input[i]);
     total += num;
