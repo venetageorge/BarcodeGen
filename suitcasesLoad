@@ -3,7 +3,7 @@ function suitcasesLoad(input) {
   let index = 1;
   let command = input[index];
   let counter = 0;
-
+  
   while (command !== "End") {
     if (index % 3 === 0) {
       let volume = Number(command);
