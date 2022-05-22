@@ -8,7 +8,7 @@ function foodForPets(input) {
   let totalCat = 0;
   let total = 0;
   let biscuit = 0;
-
+  
   for (let i = 1; i <= countDays; i++) {
 
     let sumDog = Number(input[index]);
