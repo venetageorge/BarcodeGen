@@ -4,7 +4,7 @@ function fitnessCard(input) {
   let age = Number(input[2]);
   let sport = input[3];
   let price = 0;
-
+  
   switch (sport) {
     case "Gym":
       if (gender === "m") {
