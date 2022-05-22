@@ -4,7 +4,7 @@ function careOfPuppy(input) {
   food = input[index];
   let eatenFood = 0;
   let foodInGrams = 0;
-
+  
   foodInGrams += foodKg * 1000;
   while (food !== "Adopted") {
     if (food === "Adopted") {
