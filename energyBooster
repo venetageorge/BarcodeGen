@@ -3,6 +3,7 @@ function energyBooster(input) {
   let setSize = input[1];
   let countOfOrderedSets = Number(input[2]);
   let price = 0;
+  
   if (setSize === "small" && fruit === "Watermelon") {
     price = 2 * 56 * countOfOrderedSets;
     if (price >= 400 && price <= 1000) {
