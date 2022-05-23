@@ -3,7 +3,7 @@ function maxNumber(input) {
   let command = input[index];
   index++;
   let maxNumber = Number.MIN_SAFE_INTEGER;
-
+  
   while (command !== "Stop") {
     let num = Number(command);
 
