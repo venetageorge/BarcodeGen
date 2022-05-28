@@ -12,5 +12,5 @@ In German we say it like this: "Aller Anfang ist schwer!" - "Every beginning is 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>
-   <font> 4 </font>
+   <font> 1 </font>
 </div>
